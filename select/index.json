@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "SPARKS",
+  "base_artist": "小鳥遊キアラ",
+  "createdAt": "2026-03-10T14:36:32.405752Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sparks Fly",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/01_Sparks_Fly_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sparks",
+      "artist": "Kim Wilde",
+      "has_synced": false,
+      "path": "select/02_Sparks_Kim_Wilde.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Raising the Sparks",
+      "artist": "AKRON/FAMILY",
+      "has_synced": false,
+      "path": "select/03_Raising_the_Sparks_AKRON_FAMILY.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sparks",
+      "artist": "Alex Clare",
+      "has_synced": true,
+      "path": "select/04_Sparks_Alex_Clare.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sparks",
+      "artist": "Beach House",
+      "has_synced": true,
+      "path": "select/05_Sparks_Beach_House.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sparks & Ashes",
+      "artist": "The Blaze",
+      "has_synced": false,
+      "path": "select/06_Sparks_&_Ashes_The_Blaze.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Be My Private Dancer (Chrome Sparks Remix)",
+      "artist": "The 2 Live Crew",
+      "has_synced": false,
+      "path": "select/07_Be_My_Private_Dancer_(Chrome_Sparks_Remix)_The_2_Live_Crew.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Be My Private Dancer (Chrome Sparks Remix)",
+      "artist": "2 Live Crew",
+      "has_synced": false,
+      "path": "select/08_Be_My_Private_Dancer_(Chrome_Sparks_Remix)_2_Live_Crew.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sparks",
+      "artist": "Röyksopp",
+      "has_synced": true,
+      "path": "select/09_Sparks_Röyksopp.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Do Your Eyes See Sparks?",
+      "artist": "Mice Parade",
+      "has_synced": false,
+      "path": "select/10_Do_Your_Eyes_See_Sparks_Mice_Parade.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sparks",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/11_Sparks_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cold Sparks - Bonus Track",
+      "artist": "MUTEMATH",
+      "has_synced": true,
+      "path": "select/12_Cold_Sparks_-_Bonus_Track_MUTEMATH.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sparks Will Fly",
+      "artist": "Tyketto",
+      "has_synced": false,
+      "path": "select/13_Sparks_Will_Fly_Tyketto.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Live in Las Vegas (feat. Sparks)",
+      "artist": "Les Rita Mitsouko",
+      "has_synced": true,
+      "path": "select/14_Live_in_Las_Vegas_(feat._Sparks)_Les_Rita_Mitsouko.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "You Don't Know (In the Ghetto) [feat. Sparks]",
+      "artist": "Freeway",
+      "has_synced": false,
+      "path": "select/15_You_Don't_Know_(In_the_Ghetto)_[feat._Sparks]_Freeway.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sparks In the Dark (Part Two)",
+      "artist": "Sparks",
+      "has_synced": false,
+      "path": "select/16_Sparks_In_the_Dark_(Part_Two)_Sparks.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SPARKS",
+      "artist": "小鳥遊キアラ",
+      "has_synced": false,
+      "path": "select/pl_01_SPARKS_小鳥遊キアラ.txt"
+    }
+  ]
+}
